@@ -1,2 +1,2 @@
 # DiseñoDeSistemasDigitalesESCOM
- Tareas de la clase DSD del profesor Galicia
+ Tareas de la clase DSD del profesor Ruben Galicia Mejia
