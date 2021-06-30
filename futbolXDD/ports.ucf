@@ -1,0 +1,18 @@
+NET "w1"         		LOC =  "S:PIN10";
+NET "w2"         		LOC =  "S:PIN7";
+
+//NET "w1"         		LOC =  "S:PIN94";
+//NET "w2"         		LOC =  "S:PIN143";
+NET "clk"            LOC =  "S:PIN38";
+
+NET "act<0>"            LOC =  "S:PIN130";
+NET "act<1>"            LOC =  "S:PIN128";
+
+NET "dis<0>"			LOC =  "S:PIN56";
+NET "dis<1>"			LOC =  "S:PIN53";
+NET "dis<2>"			LOC =  "S:PIN60";
+NET "dis<3>"			LOC =  "S:PIN58";
+NET "dis<4>"			LOC =  "S:PIN57";
+NET "dis<5>"			LOC =  "S:PIN54";
+NET "dis<6>"			LOC =  "S:PIN61";
+NET "dis<7>"			LOC =  "S:PIN59";

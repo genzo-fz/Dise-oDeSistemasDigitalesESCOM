@@ -1,0 +1,35 @@
+//NET "w1"         		LOC =  "S:PIN143";
+//NET "w2"         		LOC =  "S:PIN94";
+NET "clk"            LOC =  "S:PIN38";
+
+NET "act"            LOC =  "S:PIN130";
+//NET "act<1>"            LOC =  "S:PIN128";
+
+NET "disp<0>"			LOC =  "S:PIN56";
+NET "disp<1>"			LOC =  "S:PIN53";
+NET "disp<2>"			LOC =  "S:PIN60";
+NET "disp<3>"			LOC =  "S:PIN58";
+NET "disp<4>"			LOC =  "S:PIN57";
+NET "disp<5>"			LOC =  "S:PIN54";
+NET "disp<6>"			LOC =  "S:PIN61";
+NET "disp<7>"			LOC =  "S:PIN59";
+///////////////////////////////////////j1
+//NET "clk_div"        LOC =  "S:PIN64";
+NET "clkD"        	LOC =  "S:PIN10";
+///////////////////////////////////////j2
+//NET "sel<2>"         LOC =  "S:PIN136";
+//NET "sel<1>"         LOC =  "S:PIN139";
+//NET "sel<0>"         LOC =  "S:PIN142";
+//NET "q<7>"        	LOC =  "S:PIN140";
+//NET "q<6>"        	LOC =  "S:PIN138";
+//NET "q<5>"        	LOC =  "S:PIN135";
+//NET "q<4>"        	LOC =  "S:PIN133";
+///////////////////////////////////////j3
+NET "q<3>"        	LOC =  "S:PIN119";
+NET "q<2>"        	LOC =  "S:PIN117";
+NET "q<1>"        	LOC =  "S:PIN115";
+NET "q<0>"        	LOC =  "S:PIN113";
+///////////////////////////////////////j4
+//NET "sel<2>"         LOC =  "S:PIN100";
+//NET "sel<1>"         LOC =  "S:PIN102";
+//NET "sel<0>"         LOC =  "S:PIN104";

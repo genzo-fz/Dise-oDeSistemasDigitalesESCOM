@@ -1,0 +1,28 @@
+//NET "w1"         		LOC =  "S:PIN143";//boton 1
+//NET "w2"         		LOC =  "S:PIN94";// boton 2
+
+///////////////////////////////////////j1
+//NET "clk_div"        LOC =  "S:PIN64";
+//NET "clk_div"        LOC =  "S:PIN10";
+///////////////////////////////////////j2
+//NET "sel<2>"         LOC =  "S:PIN136";//in 2
+//NET "sel<1>"         LOC =  "S:PIN139";//in 1
+//NET "sel<0>"         LOC =  "S:PIN142";//in 0
+//NET "q<7>"        	LOC =  "S:PIN140";//led 7
+//NET "q<6>"        	LOC =  "S:PIN138";//led 6
+//NET "q<5>"        	LOC =  "S:PIN135";//led 5
+//NET "q<4>"        	LOC =  "S:PIN133";//led 4
+///////////////////////////////////////j3
+//NET "q<3>"        	LOC =  "S:PIN119";//led 3
+//NET "q<2>"        	LOC =  "S:PIN117";//led 2
+//NET "q<1>"        	LOC =  "S:PIN115";//led 1
+//NET "q<0>"        	LOC =  "S:PIN113";//led 0
+NET "clk"      LOC =  "S:PIN38";
+NET "clk_div"  LOC =  "S:PIN10";
+NET "e"        LOC =  "S:PIN143";//boton 1
+
+NET "a"        LOC =  "S:PIN113";//led 1
+NET "b"       	LOC =  "S:PIN115";//led 0
+
+NET "q<1>"     LOC =  "S:PIN140";//led 7
+NET "q<0>"		LOC =  "S:PIN138";//led 6

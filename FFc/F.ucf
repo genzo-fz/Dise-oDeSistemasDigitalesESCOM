@@ -1,0 +1,13 @@
+NET "in1"            LOC =  "S:PIN142";
+NET "in2"            LOC =  "S:PIN139";
+NET "sel<0>"         LOC =  "S:PIN124";
+NET "sel<1>"         LOC =  "S:PIN39";
+NET "clk"            LOC =  "S:PIN38";
+NET "cls"            LOC =  "S:PIN94";
+NET "qsalida"        LOC =  "S:PIN64";
+NET "qsalidan"       LOC =  "S:PIN66";
+NET "clk_div"			LOC =  "S:PIN69";
+
+//NET "qsalida"        LOC =  "S:PIN64";
+//NET "qsalidan"       LOC =  "S:PIN66";
+//NET "clk_div"			LOC =  "S:PIN69";
